@@ -79,6 +79,17 @@ Product sub-categories with highest profit:
 
 🪑 Tables
 
+## 📊 Power BI Dashboard - Company Analysis
+
+![Power BI Dashboard](https://github.com/Shresth062004/Company-Sales-Analysis/commit/cf9b388eb51b9b782336a1a7dcbdb1e808dc81e6)
+
+This dashboard presents:
+- Total Quantity, Profit, AOV, and Amount
+- State-wise sales distribution
+- Category and Sub-category insights
+- Monthly profit trend analysis
+- Customer and payment behavior
+
 # 🧠 Summary
 This dashboard highlights strong sales in specific states and categories, profitable months, and customer preferences. It's a useful tool for making strategic decisions in marketing, inventory, and customer engagement.
 
