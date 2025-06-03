@@ -81,7 +81,7 @@ Product sub-categories with highest profit:
 
 ## 📊 Power BI Dashboard - Company Analysis
 
-![Power BI Dashboard](https://github.com/Shresth062004/Company-Sales-Analysis/commit/cf9b388eb51b9b782336a1a7dcbdb1e808dc81e6)
+![Power BI Dashboard](https://github.com/Shresth062004/Company-Sales-Analysis/blob/main/Screenshot%202025-06-03%20221221.png)
 
 This dashboard presents:
 - Total Quantity, Profit, AOV, and Amount
